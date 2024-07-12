@@ -7,7 +7,7 @@
   "dependencies": {
     "ace-builds": "^1.4.5",
     "autocompleter": "^4.0.2",
-    "bootstrap": "^3.4.1",
+    "bootstrap": "^5.0.0",
     "bootstrap-datepicker": "^1.9.0",
     "bootstrap-select": "^1.13.10",
     "bootstrap-slider": "^10.6.1",
